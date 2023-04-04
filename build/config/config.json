@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe48d330f8E81d8D82924378Bb249026155453eB2",
+  "SCAN_LINK": "https://etherscan.io/0xe48d330f8E81d8D82924378Bb249026155453eB2",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Never LEGO me",
+  "SYMBOL": "NEVERLEGO",
+  "MAX_SUPPLY": 888,
+  "WEI_COST": 88000000000000000,
+  "DISPLAY_COST": 0.08800000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/never-lego-me",
+  "SHOW_BACKGROUND": true
+}
